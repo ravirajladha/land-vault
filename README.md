@@ -58,7 +58,7 @@ LandVault is a Laravel-based web application for managing land documents. Users 
    ```bash
    php artisan migrate
    ```
-6. **Seed the Database** (optional):
+6. **Seed the Database**:
    ```bash
    php artisan db:seed
    ```
